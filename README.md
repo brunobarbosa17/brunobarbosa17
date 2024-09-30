@@ -4,7 +4,6 @@
 <h2 align="center">👩🏾‍💻 Software Engineer Back-End at  <a href="https://www.viahub.com.br/">ViaHub</a>
 <br>
 Computer Science Student 💻 at <a href="https://bcc.ufba.br/">Universidade Federal da Bahia. 🎓</a><br>
-<h3 align="center">Ex-Software Engineer in iFood
 
 ###
 
